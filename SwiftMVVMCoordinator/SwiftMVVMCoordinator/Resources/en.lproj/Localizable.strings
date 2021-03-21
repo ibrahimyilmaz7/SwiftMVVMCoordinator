@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  SwiftMVVMCoordinator
+
+  Created by ibrahimyilmaz on 20.03.2021.
+  
+*/
+
+"appTitle" = "Trending Movies";
+"pullToRefresh" = "Pull to refresh";
